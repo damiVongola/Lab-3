@@ -9,7 +9,7 @@ You will be provided with some sample code in sample_code.ipynb that should be e
 
 You will be implementing the following algorithms we discussed in class:
 
-- Knn Regression (15 marks)
+- Knn Regression (17 marks)
   - Implement algorithm i.e: Using python libraries.
   - Use KNeighborsRegressor from sklearn
     - Without feature scaling
@@ -43,7 +43,7 @@ You will be implementing the following algorithms we discussed in class:
          - Get testing mse and rsquared
          - Plot decision tree using alpha that gives the smallest mse
          
- - Knn Classification (15 marks)
+ - Knn Classification (17 marks)
    - Implement algorithm i.e: Using python libraries.
    - Use KNeighborsClassifier
      - Without feature scaling
@@ -77,11 +77,11 @@ You will be implementing the following algorithms we discussed in class:
      - Get testing log_loss and accuracy
      - Plot decision tree using alpha that gives the smallest log_loss
      
- - Linear Discriminant Analysis (5 marks)
+ - Linear Discriminant Analysis (3 marks)
    - Implement algorithm i.e: Using python libraries.
    - Calculate log_loss and accuracy on testing set
    
- - Quadratic Discriminant Analysis (5 marks)
+ - Quadratic Discriminant Analysis (3 marks)
    - Implement algorithm i.e: Using python libraries.
    - Calculate log_loss and accuracy on testing set
    
